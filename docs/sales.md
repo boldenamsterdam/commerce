@@ -38,6 +38,8 @@ In the case of the only built-in purchasable, variants, the category can be rela
 
 Each custom purchasable can decide to determine how they consider the category being related.
 
+**Caution:** The conditions of discount/sale **ALL** need to match the product to be applied. If you specify a particular variant, but a different category it doesn't belong to, it wont apply to anything.
+
 ### Other Purchasables
 
 Any other custom purchasable a third party system adds to Commerce can show up here as a condition.
